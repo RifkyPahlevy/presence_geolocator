@@ -1,0 +1,30 @@
+name: precense_geolocator
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  cloud_firestore: ^3.1.17
+  convex_bottom_bar: ^3.0.0
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^3.3.19
+  firebase_core: ^1.17.1
+  firebase_storage: ^10.2.17
+  flutter:
+    sdk: flutter
+  geocoding: ^2.0.4
+  geolocator: ^8.2.1
+  get: 4.6.5
+  image_picker: ^0.8.5+3
+  intl: ^0.17.0
+  syncfusion_flutter_datepicker: ^20.1.59
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

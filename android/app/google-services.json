@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976399424756",
+    "project_id": "precense-f29c1",
+    "storage_bucket": "precense-f29c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976399424756:android:dfa393b83200c0e45dd2a1",
+        "android_client_info": {
+          "package_name": "com.rifkyproject.precense_geolocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976399424756-q6hde3nudcj5n538i2graor41l09irpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQyiB4jEzRAuDVQnvpY42mAAqbbqN2HPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976399424756-q6hde3nudcj5n538i2graor41l09irpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
